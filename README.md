@@ -4,7 +4,7 @@ The standing ovation problem is a simple model introduced by (Miller & Page, 200
 
 Tricky part is that the decision of an individual does not only depend on his impressions of the performance, but also on the audience surrounding him. If everyone around a person give standing ovation, it is very likely that so does the person, even if he does not enjoy the performance at all. This phenomenon is also named as descriptive norm. It is a behavioral rule that individuals follow when their empirical expectations of others following the same rule are met (Muldoon, Lisciandra, Bicchieri, Hartmann, & Sprenger, 2014). In this study, we model the standing ovation problem using agent-based modeling technique and MASON framework to explore the structure of the problem and observe the emergent patterns and behavior.
 
-Download the [jar file](SOP.jar) and play with it ! (Bonus, I throw other very nice examples in the MASON library :-) ) //right click and open if your OS complains about security issues
+Download the [jar file](SOP.jar) (with embedded charts library) and play with it! (Bonus, [here](sop.mason.jar) is another jar file where I throw other very nice examples in the MASON library :-) ) //if your OS complains about security issues, right click the jar files and then select open 
 
 **Single rule**: Follow the majority in the neighborhood, if the majority is standing so do I, if they sit I follow them !
 
